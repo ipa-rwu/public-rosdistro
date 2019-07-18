@@ -1,0 +1,8 @@
+firmware_components:
+  ubuntu: ros-melodic-firmware-components
+grizzly_firmware:
+  ubuntu: ros-melodic-grizzly-firmware
+jackal_firmware:
+  ubuntu: ros-melodic-jackal-firmware
+ridgeback_firmware:
+  ubuntu: ros-melodic-ridgeback-firmware
