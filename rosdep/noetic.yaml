@@ -2,3 +2,5 @@ firmware_components:
   ubuntu: ros-noetic-firmware-components
 libmscl:
   ubuntu: c++-mscl
+jackal_firmware:
+  ubuntu: ros-noetic-jackal-firmware
